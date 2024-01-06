@@ -5,7 +5,7 @@ icon: https://raw.githubusercontent.com/firefly-iii/firefly-iii/main/.github/ass
 maintainers:
   - email: hello@kvd.studio
     name: kvdomingo
-name: importer
+name: firefly-importer
 sources:
   - https://github.com/firefly-iii/data-importer
 type: application

@@ -47,7 +47,8 @@ out [the charts upgrade notes](../firefly-iii/README.md#from-004-to-100).
 ### From 0.0.4 to 0.0.5
 
 The `firefly-csv` chart has been removed as the CSV importer has been integrated into
-the importer. Please check out the new [`importer` chart](../importer/README.md).
+the importer. Please check out the
+new [`importer` chart](../firefly-importer/README.md).
 
 ### From 0.0.3 to 0.0.4
 

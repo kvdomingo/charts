@@ -9,7 +9,7 @@ dependencies:
     repository: https://github.com/kvdomingo/charts
     version: 1.5.0
   - condition: importer.enabled
-    name: importer
+    name: firefly-importer
     repository: https://github.com/kvdomingo/charts
     version: 1.4.0
   - name: redis
